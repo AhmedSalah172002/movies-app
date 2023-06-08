@@ -1,4 +1,3 @@
-this link to preview the website https://movies-app-ahmed-salah.netlify.app/
 
 
 # Getting Started with Create React App
